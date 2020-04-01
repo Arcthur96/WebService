@@ -50,7 +50,7 @@
         android:layout_marginTop="61dp"
         android:ems="10"
         android:hint="Valor"
-        android:inputType="textPersonName"
+        android:inputType="numberSigned"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
