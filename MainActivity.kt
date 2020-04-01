@@ -12,7 +12,7 @@ import org.json.JSONArray
 import org.json.JSONObject
 
 class MainActivity : AppCompatActivity() {
-    val IP = "http://192.168.7.108"
+    val IP = "https://192.168.7.108"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
